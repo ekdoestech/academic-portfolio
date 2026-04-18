@@ -13,6 +13,7 @@ This repository organizes my academic work across software development, systems 
 | Echoes of Abyssus 9 | Python, modular design, game logic | [View Repo](https://github.com/ekdoestech/Echoes-of-Abyssus-9) |
 | Corner Grocer Item Frequency Tracker | C++, file I/O, maps, frequency analysis | [View Repo](https://github.com/ekdoestech/corner-grocer-item-frequency-tracker) |
 | CS250 - Software Development Lifecycle | Agile, Scrum, SDLC, documentation | [View Repo](https://github.com/ekdoestech/cs250-software-development-lifecycle) |
+| CS230 - Operating Platforms | Software design, system architecture, platform evaluation | [View Repo](https://github.com/ekdoestech/cs230-operating-platforms) |
 | Airgead Banking App | C++, financial logic, object-oriented programming | [View Repo](https://github.com/ekdoestech/AirgeadBankingApp) |
 | ChadaTech Clocks | C++, time conversion, control flow, modular logic | [View Repo](https://github.com/ekdoestech/ChadaTechClocks) |
 
