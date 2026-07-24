@@ -10,6 +10,7 @@ This repository organizes my academic work across software development, systems 
 
 | Course / Project | Focus Area | Repository |
 |---|---|---|
+| CS255 – System Analysis and Design | Requirements analysis, UML, process modeling, system design | [View Repo](https://github.com/ekdoestech/CS255-System-Analysis-and-Design) |
 | Echoes of Abyssus 9 | Python, modular design, game logic | [View Repo](https://github.com/ekdoestech/Echoes-of-Abyssus-9) |
 | Corner Grocer Item Frequency Tracker | C++, file I/O, maps, frequency analysis | [View Repo](https://github.com/ekdoestech/corner-grocer-item-frequency-tracker) |
 | CS250 - Software Development Lifecycle | Agile, Scrum, SDLC, documentation | [View Repo](https://github.com/ekdoestech/cs250-software-development-lifecycle) |
